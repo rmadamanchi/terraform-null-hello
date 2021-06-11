@@ -1,4 +1,4 @@
-# terraform-null-hello/basic example
+# Basic Example
 
 Basic example below
 
